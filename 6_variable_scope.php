@@ -4,7 +4,7 @@
     <title>Hello</title>
 </head>
 <body>
-    <h1>Variables in PHP !!!</h1>
+    <h1>Variables Scopes in PHP !!!</h1>
 
     <?php 
 
