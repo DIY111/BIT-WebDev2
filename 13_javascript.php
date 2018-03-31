@@ -1,13 +1,3 @@
-<?php
-
-setcookie("name", "saman", time()+3600);
-setcookie("name", "Gamini", time()+3600);
-
-setcookie("name", "Gamini", time()-3600);
-
-?>
-
-
 <!DOCTYPE html>
 <html>
 <body>

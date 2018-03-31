@@ -4,8 +4,11 @@
 // using the global array $_COOKIE
 
 //setting cookie
-
 setcookie('name', 'Shiham', time() + 60);
+
+// removing the cookie by setting the expiry time to a past value
+// setcookie('name', '', time() - 3600);
+
 
 ?>
 

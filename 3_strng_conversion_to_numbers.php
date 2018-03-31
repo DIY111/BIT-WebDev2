@@ -8,18 +8,16 @@
 
     <?php 
 
-        echo "<pre>";
+        // echo "<pre>";
         
-        echo "1-", "10 " > 1 ,"\n";
-        echo "2-", "10 items " > 2 ,"\n";
-        echo "3-", "items " > 2 , "\n";
-        echo "4-", True == 1, "\n";
-        echo "5-", false == 0, "\n";
-        echo "6-", TRUE == FALSE, "\n";
+        // echo "1-", "10 " > 1 ,"\n";
+        // echo "2-", "10 items " > 2 ,"\n";
+        // echo "3-", "items " > 2 , "\n";
+        // echo "4-", True == 1, "\n";
+        // echo "5-", false == 0, "\n";
+        // echo "6-", TRUE == FALSE, "\n";
 
-        echo "</pre>";
-
-    
+        // echo "</pre>";    
     ?>
     
 </body>
